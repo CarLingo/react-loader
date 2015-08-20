@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/quickleft/react-loader",
   "dependencies": {
-    "spin.js": "git://github.com/pthrasher/spin.js#50712b0c0b2ccded9582faad34a238583269cc87"
+    "spin.js": "git://github.com/CarLingo/spin.js#50712b0c0b2ccded9582faad34a238583269cc87"
   },
   "devDependencies": {
     "browserify": "^5.9.1",
